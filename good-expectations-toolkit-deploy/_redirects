@@ -1,0 +1,7 @@
+# Clean-URL convenience redirects (site is plain .html files, no build step)
+/home              /            301
+/index             /            301
+/about             /about.html  301
+/services          /services.html 301
+/pricing           /services.html#pricing 301
+/contact-us        /contact.html 301

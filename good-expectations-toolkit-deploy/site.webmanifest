@@ -1,0 +1,14 @@
+{
+  "name": "Good Expectations Toolkit",
+  "short_name": "GX Toolkit",
+  "description": "AI prompts, templates and workflows for ChatGPT, Claude, Gemini, Perplexity, Copilot and more.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F2EFE5",
+  "theme_color": "#2E5943",
+  "icons": [
+    { "src": "images/favicon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "images/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

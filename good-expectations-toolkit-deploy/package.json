@@ -1,0 +1,13 @@
+{
+  "name": "good-expectations-toolkit",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Good Expectations Toolkit — static marketing site, deployed on Cloudflare Pages.",
+  "scripts": {
+    "dev": "wrangler pages dev .",
+    "deploy": "wrangler pages deploy . --project-name=good-expectations-toolkit"
+  },
+  "devDependencies": {
+    "wrangler": "^3.90.0"
+  }
+}
